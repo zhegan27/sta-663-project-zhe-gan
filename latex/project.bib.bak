@@ -1,0 +1,130 @@
+@article{bernardo2003bayesian,
+  title={Bayesian factor regression models in the ¡°large p, small n¡± paradigm},
+  author={Bernardo, J.M. and Bayarri, M.J. and Berger, J.O. and Dawid, A.P. and Heckerman, D. and Smith, A.F.M. and West, M.},
+  journal={Bayesian statistics},
+  volume={7},
+  pages={733--742},
+  year={2003}
+}
+
+@article{carvalho2008high,
+  title={High-dimensional sparse factor modeling: applications in gene expression genomics},
+  author={Carvalho, Carlos M. and Chang, Jeffrey and Lucas, Joseph E. and Nevins, Joseph R. and Wang, Quanli and West, Mike},
+  journal={Journal of the American Statistical Association},
+  volume={103},
+  number={484},
+  year={2008}
+}
+
+@article{tipping2001sparse,
+  title={Sparse Bayesian learning and the relevance vector machine},
+  author={Tipping, Michael E.},
+  journal={The journal of machine learning research},
+  volume={1},
+  pages={211--244},
+  year={2001},
+  publisher={JMLR. org}
+}
+
+@inproceedings{carvalho2009handling,
+  title={Handling sparsity via the horseshoe},
+  author={Carvalho, Carlos M. and Polson, Nicholas G. and Scott, James G.},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={73--80},
+  year={2009}
+}
+
+@inproceedings{armagan2011generalized,
+  title={Generalized Beta Mixtures of Gaussians.},
+  author={Armagan, Artin and Dunson, David B. and Clyde, Merlise},
+  booktitle={NIPS},
+  pages={523--531},
+  year={2011}
+}
+
+@inproceedings{griffiths2005infinite,
+  title={Infinite latent feature models and the Indian buffet process},
+  author={Griffiths, Thomas L. and Ghahramani, Zoubin},
+  booktitle={NIPS},
+  volume={18},
+  pages={475--482},
+  year={2005}
+}
+
+@inproceedings{thibaux2007hierarchical,
+  title={Hierarchical beta processes and the Indian buffet process},
+  author={Thibaux, Romain and Jordan, Michael I.},
+  booktitle={International conference on artificial intelligence and statistics},
+  pages={564--571},
+  year={2007}
+}
+
+@inproceedings{paisley2009nonparametric,
+  title={Nonparametric factor analysis with beta process priors},
+  author={Paisley, John and Carin, Lawrence},
+  booktitle={Proceedings of the 26th Annual International Conference on Machine Learning},
+  pages={777--784},
+  year={2009},
+  organization={ACM}
+}
+
+@article{bhattacharya2011sparse,
+  title={Sparse Bayesian infinite factor models},
+  author={Bhattacharya, Anirban and Dunson, David B.},
+  journal={Biometrika},
+  volume={98},
+  number={2},
+  pages={291--306},
+  year={2011},
+  publisher={Biometrika Trust}
+}
+
+@article{chen2010compressive,
+  title={Compressive sensing on manifolds using a nonparametric mixture of factor analyzers: Algorithm and performance bounds},
+  author={Chen, Minhua and Silva, Jorge and Paisley, John and Wang, Chunping and Dunson, David and Carin, Lawrence},
+  journal={Signal Processing, IEEE Transactions on},
+  volume={58},
+  number={12},
+  pages={6140--6155},
+  year={2010},
+  publisher={IEEE}
+}
+
+@inproceedings{babagholami2013bayesian,
+  title={Bayesian Supervised Dictionary learning},
+  author={Babagholami-Mohamadabadi, B. and Jourabloo, A. and Zolfaghari, M. and Manzuri-Shalmani, M.T.},
+  booktitle={Intelligence Application Workshops: Part I: Big Data meet Complex Models},
+  pages={11},
+  year={2013}
+}
+
+@article{polson2011data,
+  title={Data augmentation for support vector machines},
+  author={Polson, Nicholas G. and Scott, Steven L. and others},
+  journal={Bayesian Analysis},
+  volume={6},
+  number={1},
+  pages={1--23},
+  year={2011},
+  publisher={International Society for Bayesian Analysis}
+}
+
+@article{chen2010bayesian,
+  title={Bayesian inference of the number of factors in gene-expression analysis: application to human virus challenge studies},
+  author={Chen, Bo and Chen, Minhua and Paisley, John and Zaas, Aimee and Woods, Christopher and Ginsburg, Geoffrey S. and Hero, Alfred and Lucas, Joseph and Dunson, David and Carin, Lawrence},
+  journal={BMC bioinformatics},
+  volume={11},
+  number={1},
+  pages={552},
+  year={2010},
+  publisher={BioMed Central Ltd}
+}
+
+@article{ishwaran2001gibbs,
+  title={Gibbs sampling methods for stick-breaking priors},
+  author={Ishwaran, Hemant and James, Lancelot F.},
+  journal={Journal of the American Statistical Association},
+  volume={96},
+  number={453},
+  year={2001}
+}

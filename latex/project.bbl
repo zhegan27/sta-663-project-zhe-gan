@@ -1,0 +1,49 @@
+\begin{thebibliography}{1}
+
+\bibitem{chen2011hierarchical}
+Bo~Chen, Gungor Polatkan, Guillermo Sapiro, Lawrence Carin, and David~B Dunson.
+\newblock The hierarchical beta process for convolutional factor analysis and
+  deep learning.
+\newblock {\em ICML}, 2011.
+
+\bibitem{griffiths2005infinite}
+Thomas~L. Griffiths and Zoubin Ghahramani.
+\newblock Infinite latent feature models and the indian buffet process.
+\newblock {\em NIPS}, 2005.
+
+\bibitem{griffiths2011indian}
+Thomas~L Griffiths and Zoubin Ghahramani.
+\newblock The indian buffet process: An introduction and review.
+\newblock {\em JMLR}, 2011.
+
+\bibitem{hinton2006fast}
+Geoffrey Hinton, Simon Osindero, and Yee-Whye Teh.
+\newblock A fast learning algorithm for deep belief nets.
+\newblock {\em Neural computation}, 2006.
+
+\bibitem{lecun1998gradient}
+Yann LeCun, L{\'e}on Bottou, Yoshua Bengio, and Patrick Haffner.
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proceedings of the IEEE}, 1998.
+
+\bibitem{paisley2009nonparametric}
+John Paisley and Lawrence Carin.
+\newblock Nonparametric factor analysis with beta process priors.
+\newblock {\em ICML}, 2009.
+
+\bibitem{salakhutdinov2009deep}
+Ruslan Salakhutdinov and Geoffrey~E Hinton.
+\newblock Deep boltzmann machines.
+\newblock {\em AISTATS}, 2009.
+
+\bibitem{thibaux2007hierarchical}
+Romain Thibaux and Michael~I. Jordan.
+\newblock Hierarchical beta processes and the indian buffet process.
+\newblock {\em AISTATS}, 2007.
+
+\bibitem{zeiler2010deconvolutional}
+Matthew~D Zeiler, Dilip Krishnan, Graham~W Taylor, and Robert Fergus.
+\newblock Deconvolutional networks.
+\newblock {\em CVPR}, 2010.
+
+\end{thebibliography}
