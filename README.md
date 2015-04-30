@@ -5,7 +5,7 @@ via Gibbs sampling
 
 @author: Zhe Gan (zhe.gan@duke.edu), Duke ECE, 4.30.2015
 
-## Reference:
+## Reference
 
     1. B. Chen, G. Polatkan, G. Sapiro, D. Dunson and L. Carin, "
     The Hierarchical Beta Process for Convolutional Factor Analysis and 
